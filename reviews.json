@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent professor, very clear explanations and approachable."
+      },
+      {
+        "professor": "Dr. Emily Brown",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Good lectures, but the exams were tough."
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "The lectures were a bit dry, but overall a decent class."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Engaging lectures, but sometimes hard to follow the pace."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Loved the class, and the professor was very knowledgeable."
+      },
+      {
+        "professor": "Dr. Laura Martinez",
+        "subject": "History",
+        "stars": 4,
+        "review": "Interesting lectures, but a lot of reading material."
+      },
+      {
+        "professor": "Dr. James Lee",
+        "subject": "English",
+        "stars": 2,
+        "review": "The professor was strict and the grading was harsh."
+      },
+      {
+        "professor": "Dr. Anna Clark",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "The best professor I've had, very insightful and thought-provoking."
+      },
+      {
+        "professor": "Dr. Robert Walker",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "The lectures were okay, but the assignments were confusing."
+      },
+      {
+        "professor": "Dr. Karen Adams",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Good professor, but the material was challenging."
+      },
+      {
+        "professor": "Dr. Christopher Wright",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Very engaging and made the subject interesting."
+      },
+      {
+        "professor": "Dr. Patricia Lopez",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Enjoyed the class, but the exams were tough."
+      },
+      {
+        "professor": "Dr. William Gonzalez",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "The material was interesting, but the lectures were long."
+      },
+      {
+        "professor": "Dr. Jennifer Young",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Amazing professor, very passionate about the subject."
+      },
+      {
+        "professor": "Dr. Charles King",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Great class, but a lot of fieldwork."
+      },
+      {
+        "professor": "Dr. Linda Green",
+        "subject": "Geography",
+        "stars": 3,
+        "review": "The lectures were okay, but the exams were difficult."
+      },
+      {
+        "professor": "Dr. Thomas Baker",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Fascinating subject, and the professor was excellent."
+      },
+      {
+        "professor": "Dr. Barbara Hill",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Good professor, but the material was very technical."
+      },
+      {
+        "professor": "Dr. Richard Allen",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Incredible class, and the professor was very talented."
+      },
+      {
+        "professor": "Dr. Elizabeth Perez",
+        "subject": "Theater",
+        "stars": 5,
+        "review": "Amazing professor, very inspiring and supportive."
+      }
+    ]
+  }
+  
